@@ -1,0 +1,5 @@
+outputs/reward_model/
+**/*.safetensors
+**/*.bin
+**/*.pt
+**/*.ckpt
