@@ -1,0 +1,9 @@
+pandas
+tqdm
+torch
+transformers
+huggingface_hub
+accelerate
+sentencepiece
+safetensors
+tiktoken

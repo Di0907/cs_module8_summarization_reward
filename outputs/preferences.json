@@ -1,0 +1,52 @@
+[
+  {
+    "paper_id": "1904.07695v1",
+    "preferred": "B",
+    "reason": "Summary B provides a clearer overview of the problem setting and better highlights the survey scope and contributions."
+  },
+  {
+    "paper_id": "1904.07904v1",
+    "preferred": "A",
+    "reason": "Summary A is more concise and focuses on the core methodology without unnecessary background details."
+  },
+  {
+    "paper_id": "1904.07982v1",
+    "preferred": "B",
+    "reason": "Summary B captures both the motivation and experimental findings more effectively than Summary A."
+  },
+  {
+    "paper_id": "1904.08051v1",
+    "preferred": "A",
+    "reason": "Summary A is better structured and presents the main idea in a more coherent and readable manner."
+  },
+  {
+    "paper_id": "1904.08075v1",
+    "preferred": "B",
+    "reason": "Summary B includes more technical details and better reflects the paper’s methodological contributions."
+  },
+  {
+    "paper_id": "1904.08109v1",
+    "preferred": "A",
+    "reason": "Summary A offers a more balanced summary of the problem, approach, and results."
+  },
+  {
+    "paper_id": "1904.12213v1",
+    "preferred": "B",
+    "reason": "Summary B provides clearer explanations and better contextualizes the proposed approach."
+  },
+  {
+    "paper_id": "1904.12550v1",
+    "preferred": "A",
+    "reason": "Summary A is more focused on the key contributions and avoids excessive high-level descriptions."
+  },
+  {
+    "paper_id": "1904.12848v6",
+    "preferred": "B",
+    "reason": "Summary B more accurately reflects the paper’s experimental setup and main conclusions."
+  },
+  {
+    "paper_id": "1905.00422v1",
+    "preferred": "A",
+    "reason": "Summary A is clearer and more precise in describing the research problem and proposed solution."
+  }
+]
